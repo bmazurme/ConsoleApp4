@@ -30,7 +30,7 @@ namespace ConsoleApp4
             int n = 6;
             int size = 12 * n + 1;
             var digits = new int[n];
-            int[] sum = new int[size];
+            long[] sum = new long[size];
             long result = 0;
 
             do
